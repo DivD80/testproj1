@@ -6,5 +6,6 @@
  Greeter g = new Greeter();
  String S = g.sayHello(); 
  %>
+ <%=S%>
 </body>
 </html>
